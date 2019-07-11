@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinema_Rezervasyonu_Programi", "Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi.csproj", "{FD10B8BA-E66E-4A01-B47C-C6655247EDBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD10B8BA-E66E-4A01-B47C-C6655247EDBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD10B8BA-E66E-4A01-B47C-C6655247EDBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD10B8BA-E66E-4A01-B47C-C6655247EDBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD10B8BA-E66E-4A01-B47C-C6655247EDBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

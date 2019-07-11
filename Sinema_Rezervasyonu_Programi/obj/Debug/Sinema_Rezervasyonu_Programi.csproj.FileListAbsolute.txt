@@ -1,0 +1,104 @@
+c:\users\aysenur\documents\visual studio 2015\Projects\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\Sinema_Rezervasyonu_Programi.exe.config
+c:\users\aysenur\documents\visual studio 2015\Projects\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\Sinema_Rezervasyonu_Programi.exe
+c:\users\aysenur\documents\visual studio 2015\Projects\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\Sinema_Rezervasyonu_Programi.pdb
+c:\users\aysenur\documents\visual studio 2015\Projects\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.csprojResolveAssemblyReference.cache
+c:\users\aysenur\documents\visual studio 2015\Projects\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.Form1.resources
+c:\users\aysenur\documents\visual studio 2015\Projects\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.Properties.Resources.resources
+c:\users\aysenur\documents\visual studio 2015\Projects\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.csproj.GenerateResource.Cache
+c:\users\aysenur\documents\visual studio 2015\Projects\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.exe
+c:\users\aysenur\documents\visual studio 2015\Projects\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.pdb
+c:\users\aysenur\documents\visual studio 2015\Projects\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.UyeOl.resources
+c:\users\aysenur\documents\visual studio 2015\Projects\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.Avmler.resources
+c:\users\aysenur\documents\visual studio 2015\Projects\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.vizyon.resources
+c:\users\aysenur\documents\visual studio 2015\Projects\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.Koltuklar.resources
+c:\users\aysenur\documents\visual studio 2015\Projects\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.SecilenFilm.resources
+C:\Users\Aysenur\documents\visual studio 2015\Projects\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\MongoDB.Bson.dll
+C:\Users\Aysenur\documents\visual studio 2015\Projects\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Aysenur\documents\visual studio 2015\Projects\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\MongoDB.Driver.dll
+C:\Users\Aysenur\documents\visual studio 2015\Projects\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Aysenur\documents\visual studio 2015\Projects\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Aysenur\documents\visual studio 2015\Projects\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\MongoDB.Bson.xml
+C:\Users\Aysenur\documents\visual studio 2015\Projects\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\MongoDB.Driver.xml
+C:\Users\Aysenur\documents\visual studio 2015\Projects\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Aysenur\documents\visual studio 2015\Projects\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Aysenur\documents\visual studio 2015\Projects\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.YoneticiPaneli.resources
+C:\Users\Aysenur\Desktop\Sunum\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\Sinema_Rezervasyonu_Programi.exe.config
+C:\Users\Aysenur\Desktop\Sunum\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.exe
+C:\Users\Aysenur\Desktop\Sunum\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.pdb
+C:\Users\Aysenur\Desktop\Sunum\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\Sinema_Rezervasyonu_Programi.exe
+C:\Users\Aysenur\Desktop\Sunum\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\Sinema_Rezervasyonu_Programi.pdb
+C:\Users\Aysenur\Desktop\Sunum\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\MongoDB.Bson.dll
+C:\Users\Aysenur\Desktop\Sunum\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Aysenur\Desktop\Sunum\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\MongoDB.Driver.dll
+C:\Users\Aysenur\Desktop\Sunum\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Aysenur\Desktop\Sunum\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Aysenur\Desktop\Sunum\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\MongoDB.Bson.xml
+C:\Users\Aysenur\Desktop\Sunum\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\MongoDB.Driver.xml
+C:\Users\Aysenur\Desktop\Sunum\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Aysenur\Desktop\Sunum\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Aysenur\Desktop\Sunum\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.csprojResolveAssemblyReference.cache
+C:\Users\Aysenur\Desktop\Sunum\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.Form1.resources
+C:\Users\Aysenur\Desktop\Sunum\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.Avmler.resources
+C:\Users\Aysenur\Desktop\Sunum\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.Koltuklar.resources
+C:\Users\Aysenur\Desktop\Sunum\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.Properties.Resources.resources
+C:\Users\Aysenur\Desktop\Sunum\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.SecilenFilm.resources
+C:\Users\Aysenur\Desktop\Sunum\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.UyeOl.resources
+C:\Users\Aysenur\Desktop\Sunum\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.Vizyon.resources
+C:\Users\Aysenur\Desktop\Sunum\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.YoneticiPaneli.resources
+C:\Users\Aysenur\Desktop\Sunum\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.csproj.GenerateResource.Cache
+C:\Users\mFd\Dropbox\Bizimki\OKUL\Staj Rapor\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\Sinema_Rezervasyonu_Programi.exe.config
+C:\Users\mFd\Dropbox\Bizimki\OKUL\Staj Rapor\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.exe
+C:\Users\mFd\Dropbox\Bizimki\OKUL\Staj Rapor\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.pdb
+C:\Users\Aysenur\Desktop\Staj_Dosyaları\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\Sinema_Rezervasyonu_Programi.exe.config
+C:\Users\Aysenur\Desktop\Staj_Dosyaları\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.exe
+C:\Users\Aysenur\Desktop\Staj_Dosyaları\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.pdb
+C:\Users\Hafize\Desktop\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\Sinema_Rezervasyonu_Programi.exe.config
+C:\Users\Hafize\Desktop\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.exe
+C:\Users\Hafize\Desktop\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.pdb
+C:\Users\Hafize\Desktop\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\Sinema_Rezervasyonu_Programi.exe
+C:\Users\Hafize\Desktop\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\Sinema_Rezervasyonu_Programi.pdb
+C:\Users\Hafize\Desktop\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\MongoDB.Bson.dll
+C:\Users\Hafize\Desktop\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Hafize\Desktop\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\MongoDB.Driver.dll
+C:\Users\Hafize\Desktop\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hafize\Desktop\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hafize\Desktop\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\MongoDB.Bson.xml
+C:\Users\Hafize\Desktop\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\MongoDB.Driver.xml
+C:\Users\Hafize\Desktop\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Hafize\Desktop\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hafize\Desktop\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.csprojResolveAssemblyReference.cache
+C:\Users\Hafize\Desktop\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.Form1.resources
+C:\Users\Hafize\Desktop\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.Avmler.resources
+C:\Users\Hafize\Desktop\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.Koltuklar.resources
+C:\Users\Hafize\Desktop\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.Properties.Resources.resources
+C:\Users\Hafize\Desktop\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.SecilenFilm.resources
+C:\Users\Hafize\Desktop\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.UyeOl.resources
+C:\Users\Hafize\Desktop\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.Vizyon.resources
+C:\Users\Hafize\Desktop\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.YoneticiPaneli.resources
+C:\Users\Hafize\Desktop\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\githubrepos\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\Sinema_Rezervasyonu_Programi.exe.config
+C:\Users\HP\Desktop\githubrepos\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\Sinema_Rezervasyonu_Programi.exe
+C:\Users\HP\Desktop\githubrepos\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\Sinema_Rezervasyonu_Programi.pdb
+C:\Users\HP\Desktop\githubrepos\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\MongoDB.Bson.dll
+C:\Users\HP\Desktop\githubrepos\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\HP\Desktop\githubrepos\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\MongoDB.Driver.dll
+C:\Users\HP\Desktop\githubrepos\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\githubrepos\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Desktop\githubrepos\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\MongoDB.Bson.xml
+C:\Users\HP\Desktop\githubrepos\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\MongoDB.Driver.xml
+C:\Users\HP\Desktop\githubrepos\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\HP\Desktop\githubrepos\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\githubrepos\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\githubrepos\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.Form1.resources
+C:\Users\HP\Desktop\githubrepos\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.Avmler.resources
+C:\Users\HP\Desktop\githubrepos\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.Koltuklar.resources
+C:\Users\HP\Desktop\githubrepos\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.Properties.Resources.resources
+C:\Users\HP\Desktop\githubrepos\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.SecilenFilm.resources
+C:\Users\HP\Desktop\githubrepos\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.UyeOl.resources
+C:\Users\HP\Desktop\githubrepos\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.Vizyon.resources
+C:\Users\HP\Desktop\githubrepos\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.YoneticiPaneli.resources
+C:\Users\HP\Desktop\githubrepos\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\githubrepos\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\githubrepos\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.csproj.CopyComplete
+C:\Users\HP\Desktop\githubrepos\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.exe
+C:\Users\HP\Desktop\githubrepos\Sinema_Rezervasyonu_Programi\Sinema_Rezervasyonu_Programi\obj\Debug\Sinema_Rezervasyonu_Programi.pdb
